@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, ¡soy Victor Nikolai!</h1>
 <h3 align="center">Estudiante de ingeniería informática sexto ciclo</h3>
+![HTML GIF](https://example.com/html-gif.gif)
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=victornikolai&label=Profile%20views&color=0e75b6&style=flat" alt="victornikolai" /> </p>
 
