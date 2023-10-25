@@ -3,7 +3,7 @@
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=victornikolai&label=Profile%20views&color=0e75b6&style=flat" alt="victornikolai" /> </p>
 
-- 📫 Cómo comunicarse conmigo **huarcayavictornikolai@gmail.com* *
+- 📫 Cómo comunicarse conmigo **huarcayavictornikolai@gmail.com**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
