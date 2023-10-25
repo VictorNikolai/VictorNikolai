@@ -1,13 +1,12 @@
 <h1 align="center">Hola 👋, ¡soy Victor Nikolai!</h1>
-<h3 align="center">Estudiante de ingeniería informática sexto ciclo</h3>
+<h3 align="center"> </h3>
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=victornikolai&label=Profile%20views&color=0e75b6&style=flat" alt="victornikolai" /> </p>
 
 - 📫 Cómo comunicarse conmigo **huarcayavictornikolai@gmail.com**
-- <p>Estudiante de ingenieria informática<a href="https://cayetano.edu.pe/">Universidad Cayetano Heredia </a><img 
+- <p>Estudiante de ingenieria informática<a href="https://cayetano.edu.pe/"><b>Universidad Cayetano Heredia<b></a><img 
   src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </p>
-
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
