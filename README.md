@@ -19,10 +19,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorNikolai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VictorNikolai&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂Meme
 <img src='https://github.com/VictorNikolai/123/blob/main/Img.%20Proyecto/Img%201.jpeg' style="height: 400px;"/>
 
 ---
