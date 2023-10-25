@@ -4,7 +4,7 @@
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=victornikolai&label=Profile%20views&color=0e75b6&style=flat" alt="victornikolai" /> </p>
 
 - 📫 Cómo comunicarse conmigo **huarcayavictornikolai@gmail.com**
-- <p><em>Computer engineering student<a href="https://cayetano.edu.pe/">Cayetano Heredia University</a><img 
+- <p><em>Estudiante de ingenieria informática<a href="https://cayetano.edu.pe/">Cayetano Heredia University</a><img 
   src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </em></p>
 
