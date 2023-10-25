@@ -6,7 +6,7 @@
 src="https://i.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.webp="30"> , C# 
 
 ![image](https://github.com/VictorNikolai/VictorNikolai/assets/118230173/81a9d77e-c71d-48fa-abd4-a21938e02ec1)
-![Python Django EDR GIF](https://giphy.com/embed/KAq5w47R9rmTuvWOWa)
+![image](https://giphy.com/embed/KAq5w47R9rmTuvWOWa)
 
 
 
