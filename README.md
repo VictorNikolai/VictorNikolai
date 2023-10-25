@@ -5,6 +5,10 @@
 <p><em>Computer engineering student<a href="http://www.cayetano.edu.pe">Cayetano University Heredia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Learning python</a><img 
 src="https://i.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.webp="30"> , C# 
 
+![image](https://github.com/VictorNikolai/VictorNikolai/assets/118230173/81a9d77e-c71d-48fa-abd4-a21938e02ec1)
+![Python Django EDR GIF](https://giphy.com/embed/KAq5w47R9rmTuvWOWa)
+
+
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
