@@ -51,9 +51,6 @@
 
 
 
-# 😂Meme
-<img src='https://github.com/VictorNikolai/123/blob/main/Img.%20Proyecto/Img%201.jpeg' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=VictorNikolai&icon=0&color=0)](https://visitcount.itsvg.in)
 
