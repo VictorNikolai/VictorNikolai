@@ -10,7 +10,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/v%C3%ADctor-nikolai-huarcaya-333430289/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt= "víctor nikolai huarcaya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/v%C3%ADctor-nikolai-huarcaya-pumacayo-333430289//" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt= "víctor nikolai huarcaya" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100088434592454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="victor nikolai" height="30" width="40" /></a>
 </p>
 
