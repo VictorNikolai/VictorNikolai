@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, ¡soy Victor Nikolai!</h1>
-<h3 align="center">Sexto Ciclo</h3>
+<h3 align="center">Octavo Ciclo</h3>
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=victornikolai&label=Profile%20views&color=0e75b6&style=flat" alt="victornikolai" /> </p>
 
