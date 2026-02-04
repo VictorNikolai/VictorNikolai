@@ -6,7 +6,6 @@ Crees que puedes mejorar mi presentación de mi github :
 
 - 📫 Cómo comunicarse conmigo **huarcayavictornikolai@gmail.com**
 - <p>Estudiante de ingenieria informática<a href="https://cayetano.edu.pe/"><b> Universidad Cayetano Heredia<b> </a><img 
-  src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </p>
 
 <h3 align="left">Conéctate conmigo:</h3>
