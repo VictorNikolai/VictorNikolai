@@ -2,17 +2,17 @@
 <h3 align="center">Estudiante de Ingeniería Informática — 9.º ciclo</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=victornikolai&label=Visitas&color=0e75b6&style=flat" alt="victornikolai" />
+  <img src="https://komarev.com/ghpvc/?username=victornikolai&label=Visitas&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-🎓 Universidad Peruana Cayetano Heredia  
+🎓 Universidad Peruana Cayetano Heredia <br>
 📫 <b>huarcayavictornikolai@gmail.com</b>
 </p>
 
 ---
 
-### 🌐 Conecta conmigo
+## 🌐 Conecta conmigo
 
 <p align="center">
 <a href="https://www.linkedin.com/in/v%C3%ADctor-nikolai-huarcaya-pumacayo-333430289/" target="_blank">
@@ -41,13 +41,20 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorNikolai&theme=dark&show_icons=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorNikolai&theme=dark" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorNikolai&layout=compact&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VictorNikolai&theme=dark&show_icons=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorNikolai&theme=dark"/>
 </p>
+
+<br>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorNikolai&layout=compact&theme=dark"/>
+</p>
+
+<br>
 
