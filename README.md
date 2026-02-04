@@ -1,4 +1,3 @@
-Crees que puedes mejorar mi presentación de mi github :
 <h1 align="center">Hola 👋, ¡soy Victor Nikolai!</h1>
 <h3 align="center">Noveno Ciclo</h3>
 
